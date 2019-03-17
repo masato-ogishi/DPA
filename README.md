@@ -85,5 +85,5 @@ View(dt_autoimmunity)
 
 Reference
 ------------------------
-Ogishi, M. (2019) "Prioritizing putatively etiological T cell epitopes across autoimmune diseases." bioRxiv.
+Ogishi, M. (2019) "Prioritizing putatively etiological T cell epitopes across autoimmune diseases." bioRxiv. https://www.biorxiv.org/content/10.1101/580126v1
 
